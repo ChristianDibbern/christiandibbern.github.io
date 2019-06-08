@@ -42,7 +42,7 @@ author:
 
 # Pagination settings
 pagination:
-  enabled: false
+  enabled: true
   debug: false
   per_page: 12
   permalink: '/page/:num/'
