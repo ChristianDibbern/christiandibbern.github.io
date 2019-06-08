@@ -801,12 +801,12 @@ main {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  height: 3em;
+  height: 6em;
   width: 100%;
   padding-right: 1em;
   padding-left: 1em;
   background-color: #fff;
-  border-bottom: 1px solid rgba(0, 0, 0, .1)
+  /*border-bottom: 1px solid rgba(0, 0, 0, .1)*/
 }
 
 @media (min-width:32em) {
@@ -816,9 +816,15 @@ main {
   }
 }
 
-.header__list>*, .header__title {
+.header__list>* {
   font-size: .8em;
   color: #000
+}
+
+.header__title {
+  font-size: 1.5em;
+  font-family: Lora;
+  color: #000;
 }
 
 .header__list {
