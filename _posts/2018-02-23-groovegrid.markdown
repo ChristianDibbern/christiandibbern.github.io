@@ -3,9 +3,9 @@ layout: post
 title: "Groovegrid"
 date: 2018-02-23
 description: "Groovegrid is a line of LED devices that can be controlled via smartphone. They display cool animations and users can play retro style games."
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/Groovegrid.png
 author: Christian Dibbern
-tags: 
+tags:
   - Dummy Text
   - Moon Drinking
   - Kale
