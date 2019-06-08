@@ -615,8 +615,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0
 }
 
-h2:not(.posts__text):not(.related__text) {
+h2 {
   font-family: Lora, serif;
+}
+
+h2:not(.posts__text):not(.related__text) {
   font-size: 2em;
   line-height: 1.4
 }
