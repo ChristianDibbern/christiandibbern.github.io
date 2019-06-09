@@ -1345,6 +1345,11 @@ main {
   max-width: none
 }
 
+#markdown img[src$="#half"] {
+  width: 50%;
+  max-width: none
+}
+
 #markdown .flex-vid {
   margin-bottom: 1.5rem
 }
