@@ -1346,7 +1346,8 @@ main {
 }
 
 #markdown img[src$="#half"] {
-  width: 50%;
+  display: inline-block;
+  width: 49%;
   max-width: none
 }
 

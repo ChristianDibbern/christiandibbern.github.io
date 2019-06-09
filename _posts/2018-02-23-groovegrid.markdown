@@ -11,11 +11,14 @@ tags:
 - Kale
 
 ---
-In 2018 an engineering buddy of mine, Phil and I started building a programmable LED light wall. We had just gotten an Ikea Kallax, a shelf that's made up of open cubes to store items. Optionally you can put doors on some of the cubes. But the doors that Ikea sells, while not unattractive, are plain. We took these doors as our canvas and put lights on it. We wired up the lights to a micro controller, enclosed everything with a sheet of plexiglass for a frosted look and coded a few animations for the device. 
+In late 2017 an engineering buddy of mine, Phil and I started building a programmable LED light wall. We had just gotten an Ikea Kallax, a shelf that's made up of open cubes to store items. Optionally you can put doors on some of the cubes. But the doors that Ikea sells, while not unattractive, are plain. We took these doors as our canvas and put lights on it. We wired up the lights to a micro controller, enclosed everything with a sheet of plexiglass for a frosted look and coded a few animations for the device.
 
-![](https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG "Ikea Kallax Shelf")
+![](https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG#half "Ikea Kallax Shelf")
 
 Phil even designed a custom board for the project, which was eye opening to me. I didn't know you could have a low quantity of custom boards manufactured for so cheap. The manufacturer didn't charge extra to print on the board, so if I could think of a name for our project and create a logo while Phil worked on the circuit design, our board would be custom branded. That was enough motivation for me to get it done quickly.
+
+![](/assets/images/Groovegrid-Board_edit.jpg#half)
+![](/assets/images/Groovegrid-Board-Back_edit.jpg#half)
 
 * Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
 * Church-key crucifix messenger bag health goth
