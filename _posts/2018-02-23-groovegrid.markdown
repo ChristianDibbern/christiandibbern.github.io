@@ -20,15 +20,16 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
 ![](/assets/images/Groovegrid-Board-Back_edit.jpg#half)
 
-* Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
-* Church-key crucifix messenger bag health goth
-* Try-hard artisan direct trade
-* Cold-pressed selfies
+After everything was working, we put the project to rest. We had achieved what we wanted. Some cool custom lighting that would be great for parties or just casual get togethers. It took about a year for us to reinvest into the project. A friend who had just started out learning to program asked us for help on a 2048 clone he was building. We hadn't thought about Groovegrid in a while, but we were just handed the perfect application for it. We both had just handed in our bachelor thesis papers, which meant this was a very opportune time to take this to the next level. 
+
+### Technology
 
 1. Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
 2. Church-key crucifix messenger bag health goth
 3. Try-hard artisan direct trade
 4. Cold-pressed selfies
+
+### Brand Design
 
 ![](https://media.giphy.com/media/TgynXKIguDLKivsS0t/giphy.gif#fill)
 
