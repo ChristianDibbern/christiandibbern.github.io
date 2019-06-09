@@ -1340,6 +1340,10 @@ main {
   margin-bottom: 1.5rem
 }
 
+#markdown img[src$="#fill"] {
+  width: 98%;
+}
+
 #markdown img[src$="#full"] {
   width: 100vw;
   max-width: none
