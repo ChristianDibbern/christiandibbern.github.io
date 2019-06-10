@@ -15,6 +15,15 @@ In late 2017 an engineering buddy of mine, Phil and I started building a program
 
 ![](https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG#half "Ikea Kallax Shelf")
 
+<div class='pics_in_a_row'>
+    <div style="flex: 1.3344;">
+      <img src='http://blimpage.com/pants/codepen/mm1.jpg'>
+    </div>
+    <div style="flex: 0.7505;">
+      <img src='http://blimpage.com/pants/codepen/mm3.jpg'>
+    </div>
+  </div>
+
 Phil even designed a custom board for the project, which was eye opening to me. I didn't know you could have a low quantity of custom boards manufactured for so cheap. The manufacturer didn't charge extra to print on the board, so if I could think of a name for our project and create a logo while Phil worked on the circuit design, our board would be custom branded. That was enough motivation for me to get it done quickly.
 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
