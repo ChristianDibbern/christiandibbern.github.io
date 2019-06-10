@@ -16,20 +16,18 @@ In late 2017 an engineering buddy of mine, Phil and I started building a program
 ![](https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG#half "Ikea Kallax Shelf")
 
 <div class='pics_in_a_row'>
-    <div style="flex: 1.3344;">
-      <img src='http://blimpage.com/pants/codepen/mm1.jpg'>
-    </div>
-    <div style="flex: 0.7505;">
-      <img src='http://blimpage.com/pants/codepen/mm3.jpg'>
-    </div>
-  </div>
+<div style="flex: 1.3344;">
+<img src='http://blimpage.com/pants/codepen/mm1.jpg'>
+</div>
+<div style="flex: 0.7505;">
+<img src='http://blimpage.com/pants/codepen/mm3.jpg'>
+</div>
+</div>
 
 Phil even designed a custom board for the project, which was eye opening to me. I didn't know you could have a low quantity of custom boards manufactured for so cheap. The manufacturer didn't charge extra to print on the board, so if I could think of a name for our project and create a logo while Phil worked on the circuit design, our board would be custom branded. That was enough motivation for me to get it done quickly.
 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
 ![](/assets/images/Groovegrid-Board-Back_edit.jpg#half)
-
-After everything was working, we put the project to rest. We had achieved what we wanted. Some cool custom lighting that would be great for parties or just casual get togethers. It took about a year for us to reinvest into the project. We both had just handed in our bachelor thesis papers, which meant this was a very opportune time to take this to the next level.
 We had included 4 mechanical buttons onto the board, which were meant to select different animations, but of course they could also be used for other applications.
 It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work.
 
