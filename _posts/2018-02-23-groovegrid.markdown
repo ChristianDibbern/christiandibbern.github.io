@@ -31,7 +31,7 @@ After everything was working, we put the project to rest. We had achieved what w
 
 ### Brand Design
 
-<video autoplay="autoplay" loop="loop" muted style="width: 100%; height: auto;">
+<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
 
