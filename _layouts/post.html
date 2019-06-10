@@ -10,13 +10,10 @@ layout: default
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
       </div>
     </div>
-
-    {% if page.image %}
-      <div class="post__img">
-        <div>
-          <figure class="absolute-bg" style="background-image: url('{{ page.image }}');"></figure>
-        </div>
-      </div>
+    {% if page.header-image %}
+      <img src="{{ page.header-image }}" style="width: 100%; height: auto;" />
+    {% elsif page.image %}
+      <img src="{{ page.image }}" style="width: 100%; height: auto;" />
     {% endif %}
 
     <div class="post__content section-padding">
