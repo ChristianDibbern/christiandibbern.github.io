@@ -30,7 +30,9 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 3. Try-hard artisan direct trade
 4. Cold-pressed selfies
 
-![](https://media.giphy.com/media/TgynXKIguDLKivsS0t/giphy.gif#fill)
+<video autoplay="autoplay" loop="loop" muted style="width: 100%; height: auto;">
+<source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
+</video>
 
 ### Subway tile
 
