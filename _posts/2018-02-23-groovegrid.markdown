@@ -31,13 +31,6 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 
 After everything was working, we put the project to rest. We had achieved what we wanted. Some cool custom lighting that would be great for parties or just casual get togethers. It took about a year for us to reinvest into the project. A friend who had just started out learning to program asked us for help on a 2048 clone he was building. We hadn't thought about Groovegrid in a while, but we were just handed the perfect application for it. We both had just handed in our bachelor thesis papers, which meant this was a very opportune time to take this to the next level.
 
-### Technology
-
-1. Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
-2. Church-key crucifix messenger bag health goth
-3. Try-hard artisan direct trade
-4. Cold-pressed selfies
-
 ### Brand Design
 
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
@@ -45,22 +38,3 @@ After everything was working, we put the project to rest. We had achieved what w
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
-
-### Subway tile
-
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table \[street art\]\[#\] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
-![Placeholder](/assets/images/placeholder-2.jpg)
-
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
-
-> Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-> <cite>Man braid</cite>
-
-#### Subway tile
-
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
-
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
