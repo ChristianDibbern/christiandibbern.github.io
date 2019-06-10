@@ -20,7 +20,7 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
 ![](/assets/images/Groovegrid-Board-Back_edit.jpg#half)
 
-After everything was working, we put the project to rest. We had achieved what we wanted. Some cool custom lighting that would be great for parties or just casual get togethers. It took about a year for us to reinvest into the project. A friend who had just started out learning to program asked us for help on a 2048 clone he was building. We hadn't thought about Groovegrid in a while, but we were just handed the perfect application for it. We both had just handed in our bachelor thesis papers, which meant this was a very opportune time to take this to the next level. 
+After everything was working, we put the project to rest. We had achieved what we wanted. Some cool custom lighting that would be great for parties or just casual get togethers. It took about a year for us to reinvest into the project. A friend who had just started out learning to program asked us for help on a 2048 clone he was building. We hadn't thought about Groovegrid in a while, but we were just handed the perfect application for it. We both had just handed in our bachelor thesis papers, which meant this was a very opportune time to take this to the next level.
 
 ### Technology
 
@@ -32,6 +32,7 @@ After everything was working, we put the project to rest. We had achieved what w
 ### Brand Design
 
 ![](https://media.giphy.com/media/TgynXKIguDLKivsS0t/giphy.gif#fill)
+<p>GitHub Markdown Test</p>
 <video autoplay="autoplay" loop="loop" muted style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
