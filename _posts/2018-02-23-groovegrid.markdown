@@ -29,12 +29,30 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
 ![](/assets/images/Groovegrid-Board-Back_edit.jpg#half)
 We had included 4 mechanical buttons onto the board, which were meant to select different animations, but of course they could also be used for other applications.
-It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work.
+It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work. Developing this game for Groovegrid was the spark that we needed to take our project to the next level.
 
-### Brand Design
+## Groovegrid V2
+
+Because the buttons on the board were more of a hack than a convenient interface, the first thing we did was add a wireless module, so we could move controls off the board. The most readily available and easy to use controllers were the smartphones in our pockets, so we decided to go with them as our primary means of interaction.  
+This was probably the most important step in the development process, because we suddenly had infinite possibilities of interaction. But with great possibility comes great responsibility to design a system that is cohesive and usable. The major tasks to accomplish were:
+
+* Brand Design
+* New Groovegrid devices
+* Mobile App Design and Development
+* Microcontroller Software Development
+
+#### Brand Design
 
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
 
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
+
+#### Groovegrid Devices
+
+#### Mobile App Design
+
+#### Mobile App Development
+
+#### Microcontroller Development
