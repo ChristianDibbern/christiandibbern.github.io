@@ -57,6 +57,11 @@ To get a better feeling
 
 #### Mobile App Development
 
-A while back, I had heard about Google's efforts to create a cross-platform app development framework called Flutter. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
+A while back, I had heard about Google's efforts to create a cross-platform app development framework called [Flutter](https://flutter.dev "Flutter"). I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
+
+Flutter uses Google's own Dart language for development. The Dart code can either run in a virtual machine or be compiled to native code. This enables a great development workflow with sub second hot reload, while also making releases fast and buttery smooth with AOT compilation. This is especially advantageous for UI development, I can make a change, hit save and my changes immediately show up on my connected device. What I like most about Flutter is UI-as-code. In contrast to native device frameworks, Flutter doesn't have a separate UI markup language or a UI Builder. Instead the Dart language features allow it to be used in a declarative manner to specify UIs. The upside here is that you can always rely on the power of code when declaring UIs.
+
+I was able to write all UI and business logic in Dart, but Flutter doesn't expose all device hardware directly to Dart.   
+The core of the mobile app is bluetooth communication between the phone and Groovegrid, so I needed a way to use the bluetooth module. Flutter enables this via platform channels, that allow access to native device APIs. Platform channels are written in the target device's native language. On Android you can use Java or Kotlin, on iOS it's Objective-C or Swift. 
 
 #### Microcontroller Development
