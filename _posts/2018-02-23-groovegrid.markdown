@@ -43,6 +43,8 @@ This was probably the most important step in the development process, because we
 
 #### Brand Design
 
+To get a better feeling 
+
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
 
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
@@ -54,5 +56,7 @@ This was probably the most important step in the development process, because we
 #### Mobile App Design
 
 #### Mobile App Development
+
+A while back, I had heard about Google's efforts to create a cross-platform app development framework called Flutter. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
 
 #### Microcontroller Development
