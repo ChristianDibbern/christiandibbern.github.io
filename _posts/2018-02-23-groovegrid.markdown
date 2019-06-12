@@ -64,7 +64,7 @@ I structured the app into the following layers:
 3. Services
 4. Data
 
-In addition I used the BLoC (Business Logic Components) pattern that Google developed specifically for Flutter. It takes advantage of Dart Streams to provide a clean, reactive way to manage state. All communication between layers is handled via Streams to avoid static circular dependencies.
+In addition I used the BLoC (Business Logic Components) pattern that Google at their I/O conference in 2018. It takes advantage of Dart Streams to provide a clean, reactive way to manage state. All communication between layers is handled via Streams to avoid static circular dependencies.
 
 {% comment %}
 
