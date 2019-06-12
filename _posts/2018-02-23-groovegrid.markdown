@@ -13,14 +13,12 @@ tags:
 ---
 In late 2017 an engineering buddy of mine, Phil and I started building a programmable LED light wall. We had just gotten an Ikea Kallax, a shelf that's made up of open cubes to store items. Optionally you can put doors on some of the cubes. But the doors that Ikea sells, while not unattractive, are quite plain. We took these doors as our canvas and put lights on it. We wired up the lights to a micro controller, enclosed everything with a sheet of plexiglass for a frosted look and coded a few animations for the device.
 
-![](https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG#half "Ikea Kallax Shelf")
-
 <div class='pics_in_a_row'>
-<div style="flex: 1.3344;">
-<img src='http://blimpage.com/pants/codepen/mm1.jpg'>
+<div style="flex: 1.0;">
+<img src='https://www.ikea.com/PIAimages/0644182_PE702466_S5.JPG'>
 </div>
-<div style="flex: 0.7505;">
-<img src='http://blimpage.com/pants/codepen/mm3.jpg'>
+<div style="flex: 0.75018;">
+<img src='https://i.ibb.co/7KnNZj8/Groovegrid-Door-edit-compressed.jpg'>
 </div>
 </div>
 
