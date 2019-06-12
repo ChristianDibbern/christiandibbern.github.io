@@ -55,7 +55,7 @@ To get a better feeling
 
 #### Mobile App Development
 
-A while back, I had heard about Google's efforts to create a cross-platform app development framework called [Flutter](https://flutter.dev "Flutter"). I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
+A while back, I had heard about Google's efforts to create a cross-platform mobile app development framework called [Flutter](https://flutter.dev "Flutter"). In Flutter, most code is only written once in Dart, which can run in a virtual machine for fast development cycles, or be ahead of time compiled for a final release. Developers can also access native device APIs to interface with hardware components like bluetooth using Java and Kotlin or Objective-C and Swift, respectively. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the Groovegrid mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
 
 {% comment %}
 
