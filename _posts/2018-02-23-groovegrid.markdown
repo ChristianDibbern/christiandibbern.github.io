@@ -67,6 +67,8 @@ Above you can see a few different ideas for the letter G, some of which don't fe
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
 
+![](https://i.ibb.co/H4W8jD3/Groovegrid-Logo.png)
+
 #### Groovegrid Devices
 
 #### Mobile App Design
