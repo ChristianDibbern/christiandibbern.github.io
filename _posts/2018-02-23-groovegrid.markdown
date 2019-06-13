@@ -49,9 +49,15 @@ To get a better feeling for what the Groovegrid brand could be I started out by 
 
 In a professional project I would have taken the time to develop personas, preferably with empirical data, but I only needed a rough idea of target audiences. I came to the conclusion that the possible audience for _mood lighting_ was too broad. Since LED light strips are nowadays built into furniture and remote controlled color changing lights are readily available, this group could include literally anybody.
 
-In respect of _retro gaming_ and _party lighting_ I wanted to create a feeling of 80s dance, Tron and Miami Vice. I made a moodboard to make my vague idea come to life visually. During this process I was especially inspired by the Miami Heat basketball team. They created a [Vice special edition jersey collection](https://www.adsoftheworld.com/media/design/miami_heat_nike_uniform "Miami Heat Vice Jersey Behind the Scenes") , that was going in a similar direction.
+In respect of _retro gaming_ and _party lighting_ I wanted to create a feeling of 80s dance, Tron, Miami Vice, Neon Lights. I made a moodboard to make my vague idea come to life visually. During this process I was especially inspired by the Miami Heat basketball team. They created a [Vice special edition jersey collection](https://www.adsoftheworld.com/media/design/miami_heat_nike_uniform "Miami Heat Vice Jersey Behind the Scenes") , that was going in a similar direction.
 
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
+
+Next, I wanted to tackle the logo. My original design (center of the image below) was a juxtaposition of Grid set in a blocky pixel typeface and Groove set in Futura, which feels very rounded due to its geometric nature. With this style I meant to convey both a sense of fun and "grooviness" and a sense of retro digital. The design was not without problems, though. The main issue was the pixel G. It's drawn on a solid rectangle that is meant to symbolize a Groovegrid display. But this causes too much emphasis on the letter, its background overshoots the cap height by a significant amount. I experimented with a few variations, some of which are depicted below, but nothing felt quite right. 
+
+![](https://i.ibb.co/KLC31gn/Groovegrid-Logo-Tweaking-Process.png#full)
+
+I eventually came to the conclusion that the pixel typeface I used just didn't fit, I needed custom letterforms. So I took a step back and suddenly it hit me. The pixel type would only feel right if it could work on Groovegrid. Which meant each letter would have to be reproducible on 4x4 pixels.
 
 ![](https://i.ibb.co/LvqxBkB/Groovegrid-G-Entwuerfe-edit.jpg)
 
