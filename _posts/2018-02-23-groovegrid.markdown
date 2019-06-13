@@ -57,9 +57,11 @@ Next, I wanted to tackle the logo. My original design (center of the image below
 
 ![](https://i.ibb.co/KLC31gn/Groovegrid-Logo-Tweaking-Process.png#full)
 
-I eventually came to the conclusion that the pixel typeface I used just didn't fit, I needed custom letterforms. So I took a step back and suddenly it hit me. The pixel type would only feel right if it could work on Groovegrid. Which meant each letter would have to be reproducible on 4x4 pixels.
+I eventually came to the conclusion that the pixel typeface I used just didn't fit, I needed custom letterforms. So I took a step back and suddenly it hit me. The pixel type would only feel right if it could work on Groovegrid. Which meant each letter would have to be reproducible on 4x4 pixels. I was surprised by the amount of different glyphs I could come up with.
 
 ![](https://i.ibb.co/LvqxBkB/Groovegrid-G-Entwuerfe-edit.jpg)
+
+Above you can see a few different ideas for the letter G, some of which don't feel like a G at all. I was trying to see how far I could push the character before it would become unrecognizable. I was delighted when I realized that one of my concepts for an uppercase G would become a lowercase g when rotated 90°. From this coincidence I prototyped an animated logo on paper:
 
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
