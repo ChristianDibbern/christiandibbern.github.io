@@ -41,7 +41,15 @@ This was probably the most important step in the development process, because we
 
 #### Brand Design
 
-To get a better feeling
+To get a better feeling for what the Groovegrid brand could be I started out by thinking of possible target audiences. Groovegrid has three main use cases:
+
+* Retro Gaming
+* Mood Lighting
+* Party Lighting
+
+In a professional project I would have taken the time to develop personas, preferably with empirical data, but I only needed a rough idea of target audiences. I came to the conclusion that the possible audience for _mood lighting_ was too broad. Since LED light strips are nowadays built into furniture and remote controlled color changing lights are readily available, this group could include literally anybody.
+
+In respect of _retro gaming_ and _party lighting_
 
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
 
