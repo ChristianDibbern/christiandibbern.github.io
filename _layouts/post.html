@@ -52,27 +52,45 @@ layout: default
 </div>
 
 <!-- Links to Previous/Next posts -->
-{% assign relatedTag = page.tags | first %}
-{% if relatedTag %}
-  <section class="related section-padding">
-    <div class="grid-xlarge">
-      <h2 class="related__title">Related</h2>
-      <div class="related__container">
-        {% for post in site.tags[relatedTag] limit: 3 %}
-          <article class="related__post">
-            <a class="related__link" href="{{ post.url | prepend: site.baseurl }}">
-              {% if post.image %}
-                <figure class="related__img">
-                  <img src="{{ post.image }}" alt="{{ post.title }}"/>
-                </figure>
-              {% endif %}
-              <div>
-                <h2 class="related__text">{{ post.title }}</h2>
-              </div>
-            </a>
-          </article>
-        {% endfor %}
-      </div>
+
+<section class="related section-padding">
+  <div class="grid-xlarge">
+    <div class="related__container">
+      {% if page.next %} <!-- Flipped because sorting order is reversed -->
+        <article class="related__post">
+          <h2 class="project-nav__title">Previous Project</h2>
+          <a class="related__link" href="{{ page.next.url | prepend: site.baseurl }}">
+            {% if page.next.image %}
+              <figure class="related__img">
+                <img src="{{ page.next.image }}" alt="{{ page.next.title }}"/>
+              </figure>
+            {% endif %}
+            <div>
+              <h2 class="related__text">{{ page.next.title }}</h2>
+            </div>
+          </a>
+        </article>
+      {% endif %}
+
+      {% if page.previous %}
+        <article class="related__post">
+          <h2 class="project-nav__title">Next Project</h2>
+          <a class="related__link" href="{{ page.previous.url | prepend: site.baseurl }}">
+            {% if page.header-image %}
+              <figure class="related__img">
+                <img src="{{ page.previous.header-image }}" alt="{{ page.previous.title }}"/>
+              </figure>
+            {% elsif page.previous.image %}
+              <figure class="related__img">
+                <img src="{{ page.previous.image }}" alt="{{ page.previous.title }}"/>
+              </figure>
+            {% endif %}
+            <div>
+              <h2 class="related__text">{{ page.previous.title }}</h2>
+            </div>
+          </a>
+        </article>
+      {% endif %}
     </div>
-  </section>
-{% endif %}
+  </div>
+</section>

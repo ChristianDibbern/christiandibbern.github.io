@@ -49,7 +49,18 @@
 }
 
 .contact__mast, .form__submit, .mast, .post__header, .posts__pagination, .related__text, .related__title, .subscribe__error, .subscribe__text, .subscribe__title, blockquote, q {
-  text-align: center
+  text-align: center;
+}
+
+.related__title {
+  margin-bottom: 10px;
+  font-size: 0.2em;
+}
+
+.project-nav__title {
+  margin-bottom: 10px;
+  font-size: 1.75em;
+  text-align: center;
 }
 
 .contact, .contact__content, .footer__social, .footer__tags, .post__social {
@@ -619,7 +630,7 @@ h2 {
   font-family: Lora, serif;
 }
 
-h2:not(.posts__text):not(.related__text) {
+h2:not(.posts__text):not(.related__text):not(.project-nav__title) {
   font-size: 2em;
   line-height: 1.4
 }
@@ -1550,7 +1561,7 @@ main {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  margin-top: 2em
+  margin-top: 2em;
 }
 
 .related__container>* {
