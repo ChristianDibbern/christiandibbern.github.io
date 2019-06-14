@@ -82,11 +82,11 @@ Our first Groovegrid device was a 4x4 pixel Kallax shelf door and while we have 
 ![](https://i.ibb.co/dgSykyc/Table-Making-Of-edit.jpg#half)
 ![](https://i.ibb.co/pP9n647/Table-Making-Of-2-edit.jpg#half)
 
-<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
+The table form factor with its higher resolution allows for more possibilities in app design. We've already developed versions of Snake and Flappy Bird for the table and are in the process of implementing a multiplayer system. Upcoming multiplayer games are: an adaptation of the board game [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) and [Pong](). In the case of pong we're about to experiment with using actual physical paddles on the table to control the game.
+
+<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto; margin-bottom: 30px;">
 <source src="/assets/images/Groovegrid-Table-Animation_trim_compressed.mp4" type="video/mp4" />
 </video>
-
-The table form factor with its higher resolution allows for more possibilities in app design. We've already developed versions of Snake and Flappy Bird for the table and are in the process of implementing a multiplayer system.
 
 #### Mobile App Design
 
