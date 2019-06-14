@@ -2,15 +2,15 @@
 email: okay@samesies.io
 baseurl: ""
 permalink: /:title/
-google_analytics: 
+google_analytics:
 
 name: Christian Dibbern
 title: Christian Dibbern
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+url: https://christiandibbern.github.io/
+#twitter_username: thomasvaeth
+#default_img: /assets/images/seo.jpg
 social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
@@ -46,7 +46,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
