@@ -73,6 +73,9 @@ At first I only meant to insert my custom type into the old logo design, but I w
 
 #### Groovegrid Devices
 
+![](https://i.ibb.co/dgSykyc/Table-Making-Of-edit.jpg#half)
+![](https://i.ibb.co/pP9n647/Table-Making-Of-2-edit.jpg#half)
+
 #### Mobile App Design
 
 #### Mobile App Development
