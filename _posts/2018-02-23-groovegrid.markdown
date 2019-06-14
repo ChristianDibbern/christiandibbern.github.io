@@ -29,6 +29,10 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 We had included 4 mechanical buttons onto the board, which were meant to select different animations, but of course they could also be used for other applications.
 It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work. Developing this game for Groovegrid was the spark that we needed to take our project to the next level.
 
+<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
+<source src="assets/images/Groovegrid2048_trim_compressed.mp4" type="video/mp4" />
+</video>
+
 ## Groovegrid V2
 
 Because the buttons on the board were more of a hack than a convenient interface, the first thing we did was add a wireless module, so we could move controls off the board. The most readily available and easy to use controllers were the smartphones in our pockets, so we decided to go with them as our primary means of interaction.  
@@ -75,6 +79,10 @@ At first I only meant to insert my custom type into the old logo design, but I w
 
 ![](https://i.ibb.co/dgSykyc/Table-Making-Of-edit.jpg#half)
 ![](https://i.ibb.co/pP9n647/Table-Making-Of-2-edit.jpg#half)
+
+<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
+<source src="/assets/images/Groovegrid-Table-Animation_trim_compressed.mp4" type="video/mp4" />
+</video>
 
 #### Mobile App Design
 
