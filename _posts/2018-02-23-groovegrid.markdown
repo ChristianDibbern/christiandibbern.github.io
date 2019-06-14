@@ -57,7 +57,7 @@ Next, I wanted to tackle the logo. My original design (center of the image below
 
 ![](https://i.ibb.co/KLC31gn/Groovegrid-Logo-Tweaking-Process.png#full)
 
-I eventually came to the conclusion that the pixel typeface I used just didn't fit, I needed custom letterforms. So I took a step back and suddenly it hit me. The pixel type would only feel right if it could work on Groovegrid. Which meant each letter would have to be reproducible on 4x4 pixels. I was surprised by the amount of different glyphs I could come up with.
+I eventually came to the conclusion that the pixel typeface I used just didn't fit, I needed custom letterforms. So I took a step back and suddenly it hit me. The pixel type would only feel right if it could work on Groovegrid. Which meant each letter would have to be reproducible on 4x4 pixels. I was surprised by the amount of different glyphs I could come up with for a single character.
 
 ![](https://i.ibb.co/LvqxBkB/Groovegrid-G-Entwuerfe-edit.jpg)
 
@@ -66,6 +66,8 @@ Above you can see a few different ideas for the letter G, some of which don't fe
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
+
+At first I only meant to insert my custom type into the old logo design, but I was very intrigued with the new animated design. Around this time, Phil and I were also talking about more Groovegrid devices with vastly different form factors, so the square around the G in the old design, meant to signify a Groovegrid display, was losing relevance. The meaning the new design loses by dropping Futura and going full pixel type, to me it makes up for in quirkiness. It also regains the feeling of grooviness when printed in color. 
 
 ![](https://i.ibb.co/H4W8jD3/Groovegrid-Logo.png)
 
