@@ -30,7 +30,7 @@ We had included 4 mechanical buttons onto the board, which were meant to select 
 It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work. Developing this game for Groovegrid was the spark that we needed to take our project to the next level.
 
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
-<source src="assets/images/Groovegrid2048_trim_compressed.mp4" type="video/mp4" />
+<source src="/assets/images/Groovegrid2048_trim_compressed.mp4" type="video/mp4" />
 </video>
 
 ## Groovegrid V2
