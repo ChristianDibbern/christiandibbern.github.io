@@ -29,7 +29,7 @@ Phil even designed a custom board for the project, which was eye opening to me. 
 We had included 4 mechanical buttons onto the board, which were meant to select different animations, but of course they could also be used for other applications.
 It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. The game takes place on a 4x4 grid, where the player can move around number tiles that add up to higher numbers and the goal is to go as high as possible. To make different number tiles easier to distinguish, in the original they have unique colors for each number. We just had to strip away the numbers and everything else could work. Developing this game for Groovegrid was the spark that we needed to take our project to the next level.
 
-<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
+<video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto; margin-bottom: 30px;">
 <source src="/assets/images/Groovegrid2048_trim_compressed.mp4" type="video/mp4" />
 </video>
 
@@ -57,7 +57,7 @@ In respect of _retro gaming_ and _party lighting_ I wanted to create a feeling o
 
 ![](https://i.ibb.co/SvJTYJD/Groove-Grid-Moodboard-Export-compressed.jpg#full)
 
-Next, I wanted to tackle the logo. My original design (center of the image below) was a juxtaposition of Grid set in a blocky pixel typeface and Groove set in Futura, which feels very rounded due to its geometric nature. With this style I meant to convey both a sense of fun and "grooviness" and a sense of retro digital. The design was not without problems, though. The main issue was the pixel G. It's drawn on a solid rectangle that is meant to symbolize a Groovegrid display. But this causes too much emphasis on the letter, its background overshoots the cap height by a significant amount. I experimented with a few variations, some of which are depicted below, but nothing felt quite right. 
+Next, I wanted to tackle the logo. My original design (center of the image below) was a juxtaposition of Grid set in a blocky pixel typeface and Groove set in Futura, which feels very rounded due to its geometric nature. With this style I meant to convey both a sense of fun and "grooviness" and a sense of retro digital. The design was not without problems, though. The main issue was the pixel G. It's drawn on a solid rectangle that is meant to symbolize a Groovegrid display. But this causes too much emphasis on the letter, its background overshoots the cap height by a significant amount. I experimented with a few variations, some of which are depicted below, but nothing felt quite right.
 
 ![](https://i.ibb.co/KLC31gn/Groovegrid-Logo-Tweaking-Process.png#full)
 
@@ -71,11 +71,13 @@ Above you can see a few different ideas for the letter G, some of which don't fe
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
 
-At first I only meant to insert my custom type into the old logo design, but I was very intrigued with the new animated design. Around this time, Phil and I were also talking about more Groovegrid devices with vastly different form factors, so the square around the G in the old design, meant to signify a Groovegrid display, was losing relevance. The meaning the new design loses by dropping Futura and going full pixel type, to me it makes up for in quirkiness. It also regains the feeling of grooviness when printed in color. 
+At first I only meant to insert my custom type into the old logo design, but I was very intrigued with the new animated design. Around this time, Phil and I were also talking about more Groovegrid devices with vastly different form factors, so the square around the G in the old design, meant to signify a Groovegrid display, was losing relevance. The meaning the new design loses by dropping Futura and going full pixel type, to me it makes up for in quirkiness. It also regains the feeling of grooviness when printed in color.
 
 ![](https://i.ibb.co/H4W8jD3/Groovegrid-Logo.png)
 
 #### Groovegrid Devices
+
+Our first Groovegrid device was a 4x4 pixel Kallax shelf door and while we have plans to build a higher resolution version that can stand on its own or be hung on the wall, for our second prototype, we wanted to go bigger, much bigger. In fact, we built a 2x0.5m table that houses almost 600 individual LEDs.
 
 ![](https://i.ibb.co/dgSykyc/Table-Making-Of-edit.jpg#half)
 ![](https://i.ibb.co/pP9n647/Table-Making-Of-2-edit.jpg#half)
@@ -83,6 +85,8 @@ At first I only meant to insert my custom type into the old logo design, but I w
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto;">
 <source src="/assets/images/Groovegrid-Table-Animation_trim_compressed.mp4" type="video/mp4" />
 </video>
+
+The table form factor with its higher resolution allows for more possibilities in app design. We've already developed versions of Snake and Flappy Bird for the table and are in the process of implementing a multiplayer system.
 
 #### Mobile App Design
 
