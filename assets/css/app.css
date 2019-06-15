@@ -1366,6 +1366,16 @@ main {
   max-width: none
 }
 
+.half {
+  display: block;
+  width: 49%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .pics_in_a_row {
   display: flex;
 }
