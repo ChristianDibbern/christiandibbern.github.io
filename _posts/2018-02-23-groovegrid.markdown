@@ -89,6 +89,10 @@ The table form factor with its higher resolution allows for more possibilities i
 </video>
 
 #### Mobile App Design
+
+![](https://i.ibb.co/L90XBSw/App-Homescreen-Disconnected.png#half)
+![](https://i.ibb.co/Rgw6qcw/App-Homescreen.png#half)
+
 <div>
 <video autoplay="autoplay" loop="loop" muted playsinline class="half center">
 <source src="/assets/images/Battleship_collision-highlighting_trim_compressed.mp4" type="video/mp4" />
