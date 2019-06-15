@@ -90,8 +90,12 @@ The table form factor with its higher resolution allows for more possibilities i
 
 #### Mobile App Design
 
+The Groovegrid remote mobile app has two main tasks to accomplish. Launching Groovegrid applications and providing individual controls for them. The mobile app's home screen displays two tabs that contain a list of the available animations and games, respectively. When an application is running, a button is docked to the tab bar, that provides access to the application's control screen. Because there's nothing the mobile app can do while disconnected, the whole UI is grayed out to signify the state to the user.  
+
 ![](https://i.ibb.co/L90XBSw/App-Homescreen-Disconnected.png#half)
 ![](https://i.ibb.co/Rgw6qcw/App-Homescreen.png#half)
+
+Most games 
 
 <div>
 <video autoplay="autoplay" loop="loop" muted playsinline class="half center">
