@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="post">
   <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    {% comment %}
     <div class="post__header section-padding--double">
       <div class="grid-small">
         <h2 itemprop="name headline">{{ page.title }}</h2>
@@ -10,6 +11,7 @@ layout: default
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
       </div>
     </div>
+    {% endcomment %}
     {% if page.header-image %}
       <img src="{{ page.header-image }}" style="width: 100%; height: auto;" />
     {% elsif page.image %}
@@ -22,7 +24,7 @@ layout: default
           {{content}}
         </div>
 
-        {% include share.html %}
+        {% comment %} {% include share.html %} {% endcomment %}
       </div>
     </div>
 
