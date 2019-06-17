@@ -760,7 +760,7 @@ img.zoom-img {
 }
 
 .footer__container {
-  margin-top: 3em
+  margin: 3em 0;
 }
 
 .footer__tags {
