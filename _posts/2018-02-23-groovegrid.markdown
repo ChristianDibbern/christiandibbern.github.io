@@ -71,7 +71,7 @@ Above you can see a few different ideas for the letter G, some of which don't fe
 <source src="/assets/images/Groovegrid-Logo-Prototype.mp4" type="video/mp4" />
 </video>
 
-At first I only meant to insert my custom type into the old logo design, but I was very intrigued with the new animated design. Around this time, Phil and I were also talking about manufacturing more Groovegrid devices with vastly different form factors, so the square around the G in the old design, meant to signify a Groovegrid display, was losing relevance. The meaning the new design loses by dropping Futura and going full pixel type, to me it makes up for in quirkiness. It also regains the feeling of grooviness when printed in color. Additionally, the new logo feels more cohesive. 
+At first I only meant to insert my custom type into the old logo design, but I was very intrigued with the new animated design. Around this time, Phil and I were also talking about manufacturing more Groovegrid devices with vastly different form factors, so the square around the G in the old design, meant to signify a Groovegrid display, was losing relevance. The meaning the new design loses by dropping Futura and going full pixel type, to me it makes up for in quirkiness. It also regains the feeling of grooviness when printed in color. Additionally, the new logo feels more cohesive.
 
 ![](https://i.ibb.co/H4W8jD3/Groovegrid-Logo.png)
 
@@ -90,31 +90,24 @@ The table form factor with its higher resolution allows for more possibilities i
 
 #### Mobile App Design
 
-The Groovegrid remote mobile app has two main tasks to accomplish. Launching Groovegrid applications and providing individual controls for them. The mobile app's home screen displays two tabs that contain a list of the available animations and games, respectively. When an application is running, a button is docked to the tab bar, that provides access to the application's control screen. Because there's nothing the mobile app can do while disconnected, the whole UI is grayed out to signify the state to the user.  
+The Groovegrid remote mobile app has two main tasks to accomplish. Launching Groovegrid applications and providing individual controls for them. The mobile app's home screen displays two tabs that contain a list of the available animations and games, respectively. When an application is running, a button is docked to the tab bar, that provides access to the application's control screen. Because there's nothing the mobile app can do while disconnected, the whole UI is grayed out to signify the state to the user.
 
 ![](https://i.ibb.co/L90XBSw/App-Homescreen-Disconnected.png#half)
 ![](https://i.ibb.co/Rgw6qcw/App-Homescreen.png#half)
 
-Most games 
+Most games we have in mind require only simple controls, such as "Tap to Jump" or "Swipe to Move". Since the smartphone as an input device provides a great amount of freedom, we want to make use of this. For a clone of the boardgame [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) we use the phone as a second screen, so the players can place their ships privately, while the main action takes place on the Groovegrid. Maybe we can find some interesting uses for augmented reality, to use a high resolution display in conjunction with an ultra low resolution display.
 
 <div>
-<video autoplay="autoplay" loop="loop" muted playsinline class="half center">
+<video autoplay="autoplay" loop="loop" muted playsinline class="half center" style="margin-bottom: 30px;">
 <source src="/assets/images/Battleship_collision-highlighting_trim_compressed.mp4" type="video/mp4" />
 </video>
 </div>
 
 #### Mobile App Development
 
-A while back, I had heard about Google's efforts to create a cross-platform mobile app development framework called [Flutter](https://flutter.dev "Flutter"). In Flutter, most code is only written once in Google's own Dart language, which can run in a virtual machine for fast development cycles, or be ahead of time compiled for a final release. Developers can also access native device APIs to interface with hardware components like bluetooth using Java and Kotlin or Objective-C and Swift, respectively. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the Groovegrid mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
+A while back, I had heard about Google's efforts to create a cross-platform mobile app development framework called [Flutter](https://flutter.dev "Flutter"). In Flutter, most code is only written once in Google's own Dart language, which can run in a virtual machine for fast development cycles, or be ahead of time compiled for a final release. Developers can also access native device APIs to interface with hardware components like bluetooth using Java and Kotlin or Objective-C and Swift, respectively. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the Groovegrid mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app. 
 
-I structured the app into the following layers:
-
-1. User Interface
-2. Business Logic
-3. Services
-4. Data
-
-In addition I used the BLoC (Business Logic Components) pattern that Google presented at their I/O conference in 2018. It takes advantage of Dart Streams to provide a clean, reactive way to manage state. All communication between layers is handled via Streams to avoid static circular dependencies. I chose to follow this pattern because at its core the app is just a bluetooth remote. That means basically everything in the app happens asynchronously, which is why reactive programming lends itself very well to this project.
+I structured the mobile app into layers and embedded the BLoC (Business Logic Components) pattern that Google presented at their I/O conference in 2018. It takes advantage of Dart Streams to provide a clean, reactive way to manage state and works really well with Flutter. All communication between layers is handled via Streams to avoid static circular dependencies. I chose to follow this pattern because at its core the app is just a bluetooth remote. That means basically everything in the app happens asynchronously, which is why reactive programming lends itself very well to this project.
 
 {% comment %}
 
@@ -127,4 +120,4 @@ The core of the mobile app is bluetooth communication between the phone and Groo
 
 #### Microcontroller Development
 
-The micro controller on our board runs all Groovegrid applications and drives the LED grid. Code is written in C++ on the Arduino platform. The codebase is mostly maintained by Phil, because it tightly integrates with the hardware, which is his area of expertise. Since he doesn't have much experience with object oriented programming, I try to give some guidance on best practices and architecture. This is also a challenge for me, because I haven't really worked with C++ before and it can be quite different than more modern high level languages at times. I remember urging Phil not to make use of multiple inheritance, thinking it would probably do more harm than good for someone inexperienced with object orientation.
+The micro controller on our board runs all Groovegrid applications and drives the LED grid. Code is written in C++ on the Arduino platform. The codebase is mostly maintained by Phil, because it tightly integrates with the hardware, which is his area of expertise. Since he doesn't have much experience with object oriented programming, I try to give some guidance on best practices and architecture. This is also a challenge for me, because I haven't really worked with C++ before and it can be quite different than more modern high level languages at times. I remember urging Phil not to make use of multiple inheritance, for example, thinking it would probably do more harm than good for someone inexperienced with object orientation.
