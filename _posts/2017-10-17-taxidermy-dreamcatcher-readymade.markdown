@@ -1,11 +1,12 @@
 ---
 layout: post
+published: false
 title: "Taxidermy Dreamcatcher Readymade"
 date: 2017-10-17
-description: 
+description:
 image: /assets/images/placeholder-6.jpg
 author: Thomas Vaeth
-tags: 
+tags:
   - Dummy Text
   - Moon Drinking
   - Kale
@@ -18,7 +19,7 @@ Readymade fanny pack seitan, yr austin chicharrones health goth hella listicle g
 
 Venmo knausgaard try-hard, taiyaki four loko thundercats letterpress distillery slow-carb shabby chic 90's literally. Cronut cray lumbersexual, venmo mixtape live-edge neutra ethical chambray post-ironic adaptogen semiotics. Cray fingerstache shoreditch godard gentrify readymade austin waistcoat. Tilde truffaut letterpress, asymmetrical snackwave artisan sartorial tote bag DIY. Fixie twee yuccie, small batch hashtag locavore green juice yr 90's brunch chambray leggings.
 
-Umami leggings glossier fashion axe, seitan listicle hashtag migas vegan truffaut. Meh neutra knausgaard, man bun adaptogen bitters taiyaki VHS flannel YOLO gentrify hammock kombucha. Vegan succulents iPhone banh mi thundercats waistcoat. Kickstarter everyday carry whatever, forage keffiyeh blue bottle vaporware listicle kogi godard woke. 
+Umami leggings glossier fashion axe, seitan listicle hashtag migas vegan truffaut. Meh neutra knausgaard, man bun adaptogen bitters taiyaki VHS flannel YOLO gentrify hammock kombucha. Vegan succulents iPhone banh mi thundercats waistcoat. Kickstarter everyday carry whatever, forage keffiyeh blue bottle vaporware listicle kogi godard woke.
 
 ![Placeholder](/assets/images/placeholder-24.jpg)
 

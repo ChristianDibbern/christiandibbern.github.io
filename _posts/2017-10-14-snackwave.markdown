@@ -1,21 +1,22 @@
 ---
 layout: post
+published: false
 title: "Snackwave"
 date: 2017-10-14
-description: 
+description:
 image: /assets/images/placeholder-11.jpg
 author: Thomas Vaeth
-tags: 
+tags:
   - Squid
   - Mixtape
 ---
-You probably haven't heard of them pug wayfarers pork belly ennui ramps yuccie seitan hexagon mumblecore PBR&B banjo readymade. 
+You probably haven't heard of them pug wayfarers pork belly ennui ramps yuccie seitan hexagon mumblecore PBR&B banjo readymade.
 
-Fixie post-ironic ennui, freegan blog kale chips bitters tote bag polaroid jean shorts. Bespoke fingerstache keffiyeh, scenester godard tacos flexitarian mixtape PBR&B knausgaard. Kale chips intelligentsia glossier mixtape sustainable 8-bit iPhone. Cornhole godard four loko, poke brunch farm-to-table umami church-key trust fund tote bag tbh waistcoat before they sold out franzen vexillologist. 
+Fixie post-ironic ennui, freegan blog kale chips bitters tote bag polaroid jean shorts. Bespoke fingerstache keffiyeh, scenester godard tacos flexitarian mixtape PBR&B knausgaard. Kale chips intelligentsia glossier mixtape sustainable 8-bit iPhone. Cornhole godard four loko, poke brunch farm-to-table umami church-key trust fund tote bag tbh waistcoat before they sold out franzen vexillologist.
 
 Helvetica green juice sustainable pinterest 8-bit VHS. Crucifix fixie pinterest hella fingerstache four dollar toast. Pour-over glossier ugh deep v ennui vegan kickstarter godard, offal direct trade. Lo-fi plaid everyday carry hammock, aesthetic iPhone woke seitan umami paleo jianbing waistcoat synth. Plaid pickled gastropub, copper mug street art skateboard taxidermy selvage ennui intelligentsia kombucha snackwave raclette blog.
 
-Intelligentsia farm-to-table shabby chic XOXO normcore. Forage yr brooklyn, YOLO lomo lyft stumptown snackwave raclette subway tile plaid bespoke. Stumptown mustache fashion axe subway tile narwhal next level disrupt art party kale chips kinfolk tousled keytar migas edison bulb. 
+Intelligentsia farm-to-table shabby chic XOXO normcore. Forage yr brooklyn, YOLO lomo lyft stumptown snackwave raclette subway tile plaid bespoke. Stumptown mustache fashion axe subway tile narwhal next level disrupt art party kale chips kinfolk tousled keytar migas edison bulb.
 
 ![Placeholder](/assets/images/placeholder-21.jpg#full)
 
