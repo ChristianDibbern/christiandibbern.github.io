@@ -8,7 +8,8 @@
       {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
     {% endcomment %}
 
-      {% include social.html %}
+      {% comment %} {% include social.html %} {% endcomment %}
+      <span class="popup__open footer__social"><h2>Get in contact with me</h2></span>
     </div>
   </div>
 </footer>
