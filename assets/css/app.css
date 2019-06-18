@@ -641,9 +641,9 @@ h2 {
   font-family: Lora, serif;
 }
 
-h2:not(.posts__text):not(.related__text):not(.project-nav__title) {
+h2:not(.posts__text):not(.related__text):not(.project-nav__title):not(.footer__social) {
   font-size: 2em;
-  line-height: 1.4
+  line-height: 1.4;
 }
 
 @media (min-width:91em) {
@@ -803,8 +803,18 @@ img.zoom-img {
 }
 
 .footer__social a {
-  font-size: 1.25em;
-  color: #fff
+  font-size: 1.5em;
+  color: #fff;
+  font-family: Lora;
+  font-weight: 700;
+}
+
+.footer__social a:hover {
+  font-size: 1.7em;
+}
+
+.footer__social h2 {
+  font-size: 0.7em;
 }
 
 main {
