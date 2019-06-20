@@ -116,6 +116,13 @@ h1 {
   margin: .67em 0
 }
 
+@media (min-width: 32em) {
+  h1 {
+    font-size: 3em;
+    margin: .67em 0
+  }
+}
+
 figcaption, figure, main {
   display: block
 }
@@ -844,6 +851,18 @@ main {
   /*border-bottom: 1px solid rgba(0, 0, 0, .1)*/
 }
 
+.designer-orange {
+  color: #FF7C04;
+}
+
+.developer-blue {
+  color: #0066BF;
+}
+
+.bg-lightgrey {
+    background-color: #f4f4f4;
+}
+
 @media (min-width:32em) {
   .header {
     padding-right: 2em;
@@ -857,7 +876,7 @@ main {
 }
 
 .header__title {
-  font-size: 1.5em;
+  font-size: 1.0em;
   font-family: Lora;
   color: #000;
 }
@@ -1432,7 +1451,7 @@ main {
 }
 
 .posts {
-  padding: 1em 1em 3em
+  padding: 3em 1em;
 }
 
 @media (min-width:32em) {
@@ -2856,6 +2875,37 @@ section {
     padding-left: 1em
   }
 }
+
+.grid__intro {
+  width: 100%;
+max-width: 81em;
+}
+
+.intro {
+    margin: 3em 0;
+    /*padding: 4em 1em;*/
+    padding: 0 1em;
+}
+
+@media (min-width: 32em) {
+.intro {
+    padding: 7em 2em;
+}
+}
+
+.intro__text {
+  text-align: center;
+  margin-right: auto;
+    margin-left: auto;
+    font-family: Lora, serif;
+}
+
+@media (min-width: 32em) {
+.intro__text {
+    max-width: 90%;
+}
+}
+
 
 .grid {
   width: 100%;

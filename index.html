@@ -3,9 +3,20 @@ layout: default
 pagination:
   enabled: true
 ---
+
+<section class="intro bg-white rellax" data-rellax-speed="-4">
+                <div class="grid__intro">
+                    <div>
+                        <h1 class="intro__text">Hi, I’m Christian. A <span class="designer-orange">UI/UX Designer</span> and <span class="developer-blue">Software Developer</span> based in Hamburg.</h1>
+                    </div>
+                </div>
+            </section>
+
 <!-- The main content area -->
-<div class="posts">
+<div class="posts bg-lightgrey">
+
   <div class="grid-xlarge">
+    <h3>Selected Projects</h3>
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
       {% for post in site.posts %}
