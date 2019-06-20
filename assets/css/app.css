@@ -2790,12 +2790,12 @@ section {
 }
 
 .section-padding {
-  padding: 2em 1em
+  padding: 0.1em 1em
 }
 
 @media (min-width:32em) {
   .section-padding {
-    padding: 3em 2em
+    padding: 1em 2em
   }
 }
 
