@@ -1418,6 +1418,10 @@ main {
   max-width: none
 }
 
+#markdown ul, #markdown ol {
+  margin-left: 4em;
+}
+
 .half {
   display: block;
   width: 49%;
