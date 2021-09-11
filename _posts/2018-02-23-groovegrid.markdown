@@ -118,6 +118,10 @@ The core of the mobile app is bluetooth communication between the phone and Groo
 
 {% endcomment %}
 
+{% comment %}
+
 #### Microcontroller Development
 
-The micro controller on our board runs all Groovegrid applications and drives the LED grid. Code is written in C++ on the Arduino platform. The codebase is mostly maintained by Phil, because it tightly integrates with the hardware, which is his area of expertise. Since he doesn't have much experience with object oriented programming, I try to give some guidance on best practices and architecture. This is also a challenge for me, because I haven't really worked with C++ before and it can be quite different than more modern high level languages at times. 
+The micro controller on our board runs all Groovegrid applications and drives the LED grid. Code is written in C++ on the Arduino platform. The codebase is mostly maintained by Phil, because it tightly integrates with the hardware, which is his area of expertise. Since he doesn't have much experience with object oriented programming, I try to give some guidance on best practices and architecture. This is also a challenge for me, because I haven't really worked with C++ before and it can be quite different than more modern high level languages at times.
+
+{% endcomment %}
