@@ -25,7 +25,7 @@ In late 2017 an engineering buddy of mine, Phil and I started building a program
 Guided by our first prototype Phil designed multiple generations of custom circuit boards over the course of the project. Below is the first generation with our initial logo.
 
 ![](/assets/images/Groovegrid-Board_edit.jpg#half)
-![](/assets/images/Groovegrid-Board-Back_edit.jpg#half) We had included 4 mechanical buttons onto the initial test board, which were meant to select different animations, but of course they could also be used for other applications. It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. It‘s actually simple enough that it can be adapted so it works on 4x4 pixel display. Developing this game for Groovegrid was the spark that we needed to take our project to the next level.
+![](/assets/images/Groovegrid-Board-Back_edit.jpg#half) We had included 4 mechanical buttons onto the initial test board, which were meant to select different animations, but of course they could also be used for other applications. It occured to us that [2048](https://en.wikipedia.org/wiki/2048_(video_game)), the open source game that was very popular a few years prior, would be perfect for Groovegrid. It‘s actually simple enough that it can be adapted to works on 4x4 pixel display. Developing this game for Groovegrid was the spark we needed to take our project to the next level.
 
 <video autoplay="autoplay" loop="loop" muted playsinline style="width: 100%; height: auto; margin-bottom: 30px;">
 <source src="/assets/images/Groovegrid2048_trim_compressed.mp4" type="video/mp4" />
@@ -33,15 +33,10 @@ Guided by our first prototype Phil designed multiple generations of custom circu
 
 ## Groovegrid V2
 
-Because the buttons on the board were more of a hack than a convenient interface, the first thing we did was add a wireless module, so we could move controls off the board. The most readily available and easy to use controllers were the smartphones in our pockets, so we decided to go with them as our primary means of interaction.  
-This was probably the most important step in the development process, because we suddenly had infinite possibilities of interaction. But with great possibility comes great responsibility to design a system that is cohesive and usable. The major tasks to accomplish were:
+Because the buttons on the board were more of a hack than a convenient interface, the first thing we did was add a wireless module, so we could move controls off the board. The most readily available controllers were the smartphones in our pockets, so we decided to go with them as our primary means of interaction.  
+This was probably the most important step in the development process, because we suddenly had infinite possibilities of interaction. But with 
 
-* Brand Design
-* New Groovegrid devices
-* Mobile App Design and Development
-* Microcontroller Software Development
-
-#### Brand Design
+### Brand Design
 
 To get a better feeling for what the Groovegrid brand could be I started out by thinking of possible target audiences. Groovegrid has three main use cases:
 
@@ -71,7 +66,7 @@ At first I only meant to insert my custom type into the old logo design, but I w
 
 ![](https://i.ibb.co/H4W8jD3/Groovegrid-Logo.png)
 
-#### Groovegrid Devices
+### Groovegrid Devices
 
 Our first Groovegrid device was a 4x4 pixel Kallax shelf door and while we have plans to build a higher resolution version that can stand on its own or be hung on the wall, for our second prototype, we wanted to go bigger, much bigger. In fact, we built a 2x0.5m table that houses almost 600 individual LEDs.
 
@@ -84,7 +79,7 @@ The table form factor with its higher resolution allows for more possibilities i
 <source src="/assets/images/Groovegrid-Table-Animation_trim_compressed.mp4" type="video/mp4" />
 </video>
 
-#### Mobile App Design
+### Mobile App Design
 
 The Groovegrid remote mobile app has two main tasks to accomplish. Launching Groovegrid applications and providing individual controls for them. The mobile app's home screen displays two tabs that contain a list of the available animations and games, respectively. When an application is running, a button is docked to the tab bar, that provides access to the application's control screen. Because there's nothing the mobile app can do while disconnected, the whole UI is grayed out to signify the state to the user.
 
@@ -99,7 +94,7 @@ Most games we have in mind require only simple controls, such as "Tap to Jump" o
 </video>
 </div>
 
-#### Mobile App Development
+### Mobile App Development
 
 A while back, I had heard about Google's efforts to create a cross-platform mobile app development framework called [Flutter](https://flutter.dev "Flutter"). In Flutter, most code is only written once in Google's own Dart language, which can run in a virtual machine for fast development cycles, or be ahead of time compiled for a final release. Developers can also access native device APIs to interface with hardware components like bluetooth using Java and Kotlin or Objective-C and Swift, respectively. I remember thinking it was very interesting, but I didn't have time to delve into it. When I wanted to start working on the Groovegrid mobile app, Google had just released version 1.0 of Flutter, so I was excited to use the new technology for our app.
 
@@ -116,7 +111,7 @@ The core of the mobile app is bluetooth communication between the phone and Groo
 
 {% comment %}
 
-#### Microcontroller Development
+### Microcontroller Development
 
 The micro controller on our board runs all Groovegrid applications and drives the LED grid. Code is written in C++ on the Arduino platform. The codebase is mostly maintained by Phil, because it tightly integrates with the hardware, which is his area of expertise. Since he doesn't have much experience with object oriented programming, I try to give some guidance on best practices and architecture. This is also a challenge for me, because I haven't really worked with C++ before and it can be quite different than more modern high level languages at times.
 
